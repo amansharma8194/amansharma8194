@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman kumar sharma
-- 👀 I’m interested in web development,app development,ui/ux design,cyber security and other CS/IT related stuff.
+- 👀 I’m interested in web development,app development,Data analytics, Machine Learning.
 - 🌱 I’m currently learning Front-end and REACT Framework.
 - 💞️ I’m looking to collaborate with an iternship if you can help then don't hesitate please help.
 - 📫 How to reach me 
