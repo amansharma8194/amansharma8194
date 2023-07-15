@@ -2,9 +2,7 @@
 - 👀 I’m interested in web development,app development,Data analytics, Machine Learning.
 - 🌱 I’m currently learning Front-end and REACT Framework.
 - 💞️ I’m looking to collaborate with an iternship if you can help then don't hesitate please help.
-- 📫 How to reach me 
-Linked in-Aman kumar sharma(remember i'm the student of IIMT)
-that's it i don't use too much social media .
+- 📫 You can reach me on my linked : https://www.linkedin.com/in/aman-kumar-sharma-319710212
 
 
 <!---
