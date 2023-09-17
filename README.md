@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman kumar sharma
-- 👀 I’m interested in web development,,Data analytics and Machine Learning.
+- 👀 I’m interested in web development,AI and Machine Learning.
 - 🌱 I’m currently learning Django and DSA.
 - 💞️ I’m looking to collaborate with an internship or job opportunity.
 - 📫 You can reach me on my linked : https://www.linkedin.com/in/aman-kumar-sharma-319710212
